@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hello 👋
 
-<!--
-**AlphonsaJo/AlphonsaJo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about leveraging technology to solve real-world problems. Here you'll find some of my projects and contributions.
 
-Here are some ideas to get you started:
+## 🛠️ My Toolbox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![ShellScript](https://img.shields.io/badge/-ShellScript-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![QEMU](https://img.shields.io/badge/-QEMU-FF6600?style=flat-square&logo=qemu&logoColor=white)
+![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
+![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
+![WSL](https://img.shields.io/badge/-WSL-4D4D4D?style=flat-square&logo=linux&logoColor=white)
+![Oracle VirtualBox](https://img.shields.io/badge/-Oracle_VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine_Learning-102230?style=flat-square&logo=tensorflow&logoColor=white)
+
+## 📊 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AlphonsaJo)](https://git.io/streak-stats)
+
+
+## 📫 Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/alphonsajo/](https://www.linkedin.com/in/alphonsa-jose-422471288/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BRANMByUxRB%2BEm00suc5edQ%3D%3D))
