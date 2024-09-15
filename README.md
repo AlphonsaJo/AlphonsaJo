@@ -29,4 +29,4 @@ Welcome to my GitHub profile! I'm passionate about leveraging technology to solv
 
 ## 📫 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/alphonsajo/](https://www.linkedin.com/in/alphonsa-jose-422471288/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BRANMByUxRB%2BEm00suc5edQ%3D%3D))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/IdontWantToGiveMyLinkedin))
