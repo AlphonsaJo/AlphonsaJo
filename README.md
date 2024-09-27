@@ -26,8 +26,6 @@ Welcome to my GitHub profile! I'm passionate about leveraging technology to solv
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AlphonsaJo)](https://git.io/streak-stats)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=horizenight&show_icons=true&locale=en&layout=compact&theme=dark" alt="KshitijRoodkee" />
-
 
 ## 📫 Get in Touch
 
