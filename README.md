@@ -26,6 +26,10 @@ Welcome to my GitHub profile! I'm passionate about leveraging technology to solv
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AlphonsaJo)](https://git.io/streak-stats)
 
+## 📊 Leetcode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/alj46?theme=unicorn&font=Montserrat&ext=heatmap)
+
 
 ## 📫 Get in Touch
 
