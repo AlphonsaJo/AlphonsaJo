@@ -23,8 +23,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging technology to solv
 ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-102230?style=flat-square&logo=tensorflow&logoColor=white)
 
 ## 📊 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AlphonsaJo)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AlphonsaJo&theme=material-palenight)](https://git.io/streak-stats)
 
 ## 📊 Leetcode Stats
 
