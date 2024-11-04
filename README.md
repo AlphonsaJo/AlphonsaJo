@@ -1,5 +1,7 @@
 # Hello 👋
 
+![gif6](https://github.com/user-attachments/assets/98832ba7-a2c1-4eee-aed2-af49f2637702)
+
 Welcome to my GitHub profile! I'm passionate about leveraging technology to solve real-world problems. Here you'll find some of my projects and contributions.
 
 ## 🛠️ My Toolbox
