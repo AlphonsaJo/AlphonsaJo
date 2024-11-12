@@ -25,11 +25,10 @@ Welcome to my GitHub profile! I'm passionate about leveraging technology to solv
 ## 📊 GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=AlphonsaJo&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlphonsaJo&layout=compact)](https://github.com/AlphonsaJo)
 
 ## 📊 Leetcode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/alj46?theme=Dark&font=Montserrat&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/alj46?theme=dark&font=Montserrat&ext=heatmap)
 
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=alj46&theme=nightowl" alt="LeetCode Badges"/>
 
